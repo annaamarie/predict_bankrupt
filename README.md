@@ -1,1 +1,1 @@
-# predict_bankrupt
+In this project, I developed a model to predict bankruptcy for American public companies. The work addressed a highly imbalanced dataset, skewed data, and outliers by removing collinear features, performing feature scaling, employing SMOTE, and leveraging ANOVA F-values for feature engineering. The final models demonstrated strong recall and ROC AUC performance.
